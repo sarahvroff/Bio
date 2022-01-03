@@ -11,3 +11,5 @@ You can find me on...
 - LinkedIn: @SarahRoff
 - Medium: @SarahRoff
 - Instagram: @Sarah.vroff
+
+[![Gmail Badge](https://img.shields.io/badge/-sarahroff2006@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sarahroff2006@gmail.com)](mailto:sarahroff2006@gmail.com)
