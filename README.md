@@ -7,10 +7,11 @@
 > * innovating at @theksociety
 
 **You can find me on...**
-> * Twitter: @SarahRoff27
-> * LinkedIn: @SarahRoff
-> * Medium: @SarahRoff
-> * Instagram: @Sarah.vroff
+> * [![Linkedin Badge](https://img.shields.io/badge/-SarahRoff-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarahroff/)](https://www.linkedin.com/in/sarahroff/)
+> *  [![Medium Badge](https://img.shields.io/badge/-@sarahroff-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sarahroff)](https://medium.com/@sarahroff)
+> * @SarahRoff27 | Twitter
+> * @Sarah.vroff | Instagram
+
 
 *Or shoot me an email!*
 
