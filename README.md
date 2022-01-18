@@ -7,10 +7,10 @@
 > * innovating at @theksociety
 
 **You can find me on...**
-> * [![Linkedin Badge](https://img.shields.io/badge/-Sarah_Roff-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarahroff/)](https://www.linkedin.com/in/sarahroff/)
-> *  [![Medium Badge](https://img.shields.io/badge/-Sarah_Roff-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sarahroff)](https://medium.com/@sarahroff)
+> * [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarahroff/)](https://www.linkedin.com/in/sarahroff/)
+> *  [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@sarahroff)](https://medium.com/@sarahroff)
 > * @SarahRoff27 | Twitter
-> * @Sarah.vroff | Instagram
+> * [![Medium Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sarah.vroff/)](https://www.instagram.com/sarah.vroff/)
 
 
 *Or shoot me an email!*
