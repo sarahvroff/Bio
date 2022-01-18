@@ -1,11 +1,11 @@
 # Hey I'm Sarah Roff 👋
----
+
 **Im currently busy...**
 > * being a full time student
 > * becoming a `fullstack software engineer`
 > * learning all about web3
 > * innovating at @theksociety
----
+
 **You can find me on...**
 > * Twitter: @SarahRoff27
 > * LinkedIn: @SarahRoff
