@@ -1,12 +1,12 @@
 # Hey I'm Sarah Roff 👋
 
-##Im currently busy...
+## Im currently busy...
  * being a full time student
  * becoming a `fullstack software engineer`
  * learning all about web3
  * innovating at @theksociety
 
-##You can find me on...
+## You can find me on...
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarahroff/)](https://www.linkedin.com/in/sarahroff/)
 
