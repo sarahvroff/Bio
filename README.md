@@ -4,7 +4,7 @@
  * being a full time student
  * becoming a `fullstack software engineer`
  * learning all about web3
- * innovating at @theksociety
+ * innovating at **@theksociety**
 
 ## You can find me on...
 
