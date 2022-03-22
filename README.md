@@ -21,3 +21,5 @@
 *Or shoot me an email!*
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sarahroff2006@gmail.com)](mailto:sarahroff2006@gmail.com)
+
+P.S. Don't judge my messy github! I'll clean it up eventually ;)
